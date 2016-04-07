@@ -2,6 +2,8 @@
 
 This code trains a robot in a robocode environment using Reinforcement Learning approach in specific Q-learning algorithm. (For more information about robocode see [Robocode](http://robocode.sourceforge.net/). 
 
+Check the video here for more information on the code: [video](https://youtu.be/qZd7ptXNIkI).
+
 ## Overview
 
 ## LookUpTable
