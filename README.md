@@ -18,7 +18,7 @@ The NeuralNetwork folder contains the robot `Rl_nn.java` which you can learn Q-v
 ## Getting Started
 1. Install Robocode (check [link](http://robocode.sourceforge.net/) for installation )
 2. Make sure you include your robocode environment variable in your IDE
-3. Put the robots either `Rl_check.java` or `Rl_check.java` in the `robot` folder (The robot folder can be found under the directory where robocode is installed)
+3. Put the robots either `Rl_check.java` or `Rl_nn.java` in the `robot` folder (The robot folder can be found under the directory where robocode is installed)
 4. Start the battle with the one of the RL robot and choose an enemy robot. 
 5. While training set the explore boolean variable to true
 6. Run for atleast 15,000 battles (atleast 50,000 in case of neural networks)
