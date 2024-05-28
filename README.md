@@ -1,4 +1,4 @@
-#QlearningRobocodeNN
+#QlearningRobocodeNN - Deep Reinforcement Learning on Robots
 
 This code trains a robot in a robocode environment using Reinforcement Learning approach in specific Q-learning algorithm. (For more information about robocode see [Robocode](http://robocode.sourceforge.net/). 
 
